@@ -25,7 +25,7 @@ Soy desarrollador de algoritmos de Inteligencia Artificial, Robótica y Visión 
 [![My Skills](https://skillicons.dev/icons?i=sketchup,pr&perline=6)](https://skillicons.dev)
 
 ## Contacto:
-<a href="mailto:andre-pezo@outlook.es"><img alt="Email" src="https://img.shields.io/badge/Email-Andre-pezo@outlook.es-blue?style=flat-square&logo=gmail"></a>
+<a href="mailto:andre-pezo@outlook.es"><img alt="Email" src="https://img.shields.io/badge/Email-andre-pezo@outlook.es-blue?style=flat-square&logo=gmail"></a>
 
 ## ⚙️ &nbsp;GitHub Analytics
 
